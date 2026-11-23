@@ -16,8 +16,8 @@ If you also want the in-game UI text to be translated into Chinese, you only nee
 在屏幕右侧的 **"Releases"** 里找到所需文件，下载，解压  
 把```.pak```文件拖到游戏目录的Paks文件内就好  
 ### Installation Method: 
-Simply drag the ```.pak``` file into the 'Paks' folder within your game directory.   
-Locate the required file under **"Releases"** on the right side of the screen, then download and extract it.
+Locate the required file under **"Releases"** on the right side of the screen, then download and extract it.  
+Simply drag the ```.pak``` file into the 'Paks' folder within your game directory. 
 
 ### mod安装位置（Mod installation location
 <img width="1566" height="574" alt="cf5bf6bf68d5cfc8551a5be94e343440" src="https://github.com/user-attachments/assets/667a9911-8092-4043-b014-56b6640a2062" />
